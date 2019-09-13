@@ -1,9 +1,8 @@
-name := """scala-fizz-buzz"""
+name := "scala-katas"
 
 version := "1.0"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.13.0"
 
-// Change this to another test framework if you prefer
-libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.8" % "test"
 
