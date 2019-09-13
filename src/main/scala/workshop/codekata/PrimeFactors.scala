@@ -1,6 +1,6 @@
 package workshop.codekata
 
 object PrimeFactors {
-    def generate( i:Int ) = List()
+  def generate(i: Int) = List()
 
 }

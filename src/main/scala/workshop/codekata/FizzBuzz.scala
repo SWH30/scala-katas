@@ -1,5 +1,5 @@
 package workshop.codekata
 
 object FizzBuzz {
-    def getResult( i: Int ) = ""
+  def getResult(i: Int) = ""
 }

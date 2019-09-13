@@ -6,10 +6,6 @@ class JobCircularDependencyException extends Exception
 
 object OrderedJobs {
 
-    def parse( str: String ) = List()
+  def parse(str: String) = List()
 
 }
-
-
-
-
